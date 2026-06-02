@@ -4,4 +4,4 @@ This is a Distinguished is a funny Resource Pack that makes mobs distinguished a
 # Important
 This is a passion project and will not likely get updated consistently
 
-[EMF] Entity Model Features (https://modrinth.com/mod/entity-model-features) is required
+https://modrinth.com/mod/entity-model-features ([EMF] Entity Model Features) is required
