@@ -6,7 +6,7 @@ Please visit the modrinth page at https://modrinth.com/resourcepack/distinguishe
 
 If you wish to use this github page you will only need to download the folder labled "Distinguished".
 
-After, you should compress the content of the folder into a zip file.
+After, you should compress the contents of the folder into a zip file.
 
 Rename the file "Distinguished".
 
